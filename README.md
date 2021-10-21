@@ -2,7 +2,7 @@
 ##	API documentation
 
  * GET localhost:3013/feedbacks `fetch all feedbacks data`
- * The backend port(3013) can be modified in .env file in the root folder
+ (The backend port can be modified in .env file in the root folder)
 
     Response fields 
     
